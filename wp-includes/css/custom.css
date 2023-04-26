@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+img.wp-smiley, img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+#topBtn {  
+    text-decoration: none;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 60px;
+    height: 60px;
+    /* color: #4f8397; */
+    /* background: rgba(255, 255, 255, .5); */
+    color: #fff;
+    background: #331b00; 
+    /* background:#4d9bbe; */
+    box-shadow: 0 0 15px #4f839770;
+    border-radius: 50%;
+    
+    text-align: center;
+    line-height: 58px !important;
+    font: normal 16px "TTTogether";     
+     text-transform: lowercase; 
+    z-index: 9; /* 포지션을 먼저 지정후 z-좌표(레이어) : 9999입니다. */ 
+    -webkit-transition: all .8s;
+    -moz-transition: all .8s;
+    -o-transition: all .8s;
+    transition: all .8s;
+}
+
+
+
+#topBtn i{
+    position: relative;
+    top: 8px;
+}
+ 
+#topBtn:hover {
+    /* color: #fff;
+    background: rgba(79, 131, 151, .7); */
+    background: #fff;
+    color: #331b00; 
+    /* color: #4d9bbe;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1); */
+}
+
+#topBtn a{
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.xs-footer-section {
+	background-color: #0e064a;
+}
+
+.footer-group {
+	background-color: #0e064a;
+}
+
+.xs-footer-section.footer-v2 {
+	background-color: #0e064a;
+}
+
+.footer-widget .widget-title {
+	color: #ffffff;
+}
+
+footer.xs-footer-section.footer-v2 p {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-widget .xs-list li a, .contact-info-widget li span {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-bottom-info p {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.xs-footer-section.footer-v2 .footer-bottom .footer-bottom-info.f-style-2 p
+	{
+	color: rgba(255, 255, 255, 0.5);
+}
+
+footer.xs-footer-section.footer-group a {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+footer.xs-footer-section.footer-v2 a {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.xs-footer-section.footer-v2 .footer-widget .menu>li>a {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.xs-footer-section.footer-v2 .footer-widget .contact-info-widget>li>a {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+footer.xs-footer-section.footer-group a:hover {
+	color: #ffffff;
+}
+
+footer.xs-footer-section.footer-v2 a:hover {
+	color: #ffffff;
+}
+
+.xs-footer-section.footer-v2 .footer-widget .menu>li>a:hover {
+	color: #ffffff;
+}
+
+.xs-footer-section.footer-v2 .footer-widget .contact-info-widget>li>a:hover
+	{
+	color: #ffffff;
+}
