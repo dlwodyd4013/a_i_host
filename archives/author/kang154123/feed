@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>A_I_HOST 호스팅 &#8211; A_I_HOST &#8211; OURPLAN.KR</title>
-	<atom:link href="https://ourplan.kr/archives/author/kang154123/feed" rel="self" type="application/rss+xml" />
-	<link>https://ourplan.kr</link>
+	<title>A_I_HOST 호스팅 &#8211; A_I_HOST &#8211; aihost.co.kr</title>
+	<atom:link href="https://aihost.co.kr/archives/author/kang154123/feed" rel="self" type="application/rss+xml" />
+	<link>https://aihost.co.kr</link>
 	<description>AWS / CDN77 기반 대용량 디도스 방어 및 일본 서버 호스팅 전문 기업</description>
 	<lastBuildDate>Tue, 03 Sep 2019 10:56:36 +0000</lastBuildDate>
 	<language>ko-KR</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.8.6</generator>
 	<item>
 		<title>홈페이지 내용이 복원 중입니다</title>
-		<link>https://ourplan.kr/archives/1077</link>
-					<comments>https://ourplan.kr/archives/1077#respond</comments>
+		<link>https://aihost.co.kr/archives/1077</link>
+					<comments>https://aihost.co.kr/archives/1077#respond</comments>
 		
 		<dc:creator><![CDATA[A_I_HOST 호스팅]]></dc:creator>
 		<pubDate>Tue, 03 Sep 2019 10:54:17 +0000</pubDate>
 				<category><![CDATA[홈페이지]]></category>
-		<guid isPermaLink="false">https://ourplan.kr/?p=1077</guid>
+		<guid isPermaLink="false">https://aihost.co.kr/?p=1077</guid>
 
 					<description><![CDATA[안녕하십니까? 쉽고 빠른 호스팅, A_I_HOST입니다. 기존 홈페이지 리뉴얼에 따라 작성되었던 게시글들과 내용들에 대한 데이터들을 보고 계신 새로운 홈페이지에 순차적으로 이전 중에 있습니다. 고객 여러분들께 불편을 드려 대단히 죄송하며, 보다 편리한 환경에서 서비스를 이용하실 수 있도록 최선을 다해 노력하겠습니다. 아울러, 기존의 방식과 많이 달라져 사용법에 대한 도움을 받으시려면 여기를 클릭하시거나, 카카오톡 @ourplan 을 친구추가해주시면 전문 상담원이 친절히 도와드리겠습니다. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,20 +58,20 @@
 <p>감사합니다.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ourplan.kr/archives/1077/feed</wfw:commentRss>
+					<wfw:commentRss>https://aihost.co.kr/archives/1077/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>홈페이지 리뉴얼 안내</title>
-		<link>https://ourplan.kr/archives/240</link>
-					<comments>https://ourplan.kr/archives/240#respond</comments>
+		<link>https://aihost.co.kr/archives/240</link>
+					<comments>https://aihost.co.kr/archives/240#respond</comments>
 		
 		<dc:creator><![CDATA[A_I_HOST 호스팅]]></dc:creator>
 		<pubDate>Mon, 02 Sep 2019 00:30:12 +0000</pubDate>
 				<category><![CDATA[홈페이지]]></category>
-		<guid isPermaLink="false">https://ourplan.kr/?p=240</guid>
+		<guid isPermaLink="false">https://aihost.co.kr/?p=240</guid>
 
 					<description><![CDATA[안녕하십니까? 쉽고 빠른 호스팅, A_I_HOST입니다. 리뉴얼 작업으로 인해 일부 내용이 보이지 않거나 접속이 원활하지 않을 수 있습니다. 서비스 이용에 불편을 드려 대단히 죄송합니다. 빠른 시일 내 작업을 완료하겠습니다. 감사합니다.]]></description>
 										<content:encoded><![CDATA[<p>안녕하십니까?</p>
@@ -82,7 +82,7 @@
 <p><span class="elementor-alert-description">감사합니다.</span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ourplan.kr/archives/240/feed</wfw:commentRss>
+					<wfw:commentRss>https://aihost.co.kr/archives/240/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

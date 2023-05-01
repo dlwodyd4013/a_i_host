@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	개인정보처리방침에 댓글	</title>
-	<atom:link href="https://ourplan.kr/privacy-policy/feed" rel="self" type="application/rss+xml" />
-	<link>https://ourplan.kr</link>
+	<atom:link href="https://aihost.co.kr/privacy-policy/feed" rel="self" type="application/rss+xml" />
+	<link>https://aihost.co.kr</link>
 	<description>AWS / CDN77 기반 대용량 디도스 방어 및 일본 서버 호스팅 전문 기업</description>
 	<lastBuildDate>Mon, 28 Sep 2020 06:42:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
